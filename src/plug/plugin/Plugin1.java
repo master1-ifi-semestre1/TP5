@@ -1,3 +1,5 @@
+package plug.plugin;
+
 public class Plugin1 implements Plugin {
   static {
     System.out.println("Chargement de Plugin1");

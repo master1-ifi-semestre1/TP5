@@ -1,5 +1,7 @@
 package exemple;
 
+import plug.plugin.Plugin;
+
 public class Exemple3 {
   public static void main(String []args) {     
     Class c = null;   
@@ -8,7 +10,7 @@ public class Exemple3 {
       c = Class.forName("Plugin1"); 
     } 
     catch(ClassNotFoundException e) {   
-      System.err.println("Classe Plugin1 non trouv�e");  
+      System.err.println("Classe Plugin1 non trouvée");
       e.printStackTrace();
     }        
         
