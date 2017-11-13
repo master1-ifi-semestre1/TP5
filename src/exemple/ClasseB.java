@@ -1,1 +1,1 @@
-public class ClasseB {  static{    System.out.println("Chargement de ClasseB");  }}
+package exemple;public class ClasseB {  static{    System.out.println("Chargement de ClasseB");  }}
