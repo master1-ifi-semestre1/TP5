@@ -1,4 +1,6 @@
-package exemple;
+package fr.unice.plugin;
+
+import exemple.Plugin;
 
 public class Plugin1 implements Plugin {
   static {
