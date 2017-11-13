@@ -1,4 +1,4 @@
-package plug.plugin;
+package exemple;
 
 public class Plugin1 implements Plugin {
   static {

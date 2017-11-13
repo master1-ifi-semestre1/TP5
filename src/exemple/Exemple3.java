@@ -1,7 +1,5 @@
 package exemple;
 
-import plug.plugin.Plugin;
-
 public class Exemple3 {
   public static void main(String []args) {     
     Class c = null;   

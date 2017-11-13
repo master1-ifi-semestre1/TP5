@@ -1,4 +1,4 @@
-package plug.plugin;
+package exemple;
 
 public interface Plugin {
   public abstract void decrisToi();
